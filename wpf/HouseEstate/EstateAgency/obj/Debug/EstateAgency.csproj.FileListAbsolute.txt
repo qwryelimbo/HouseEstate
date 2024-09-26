@@ -1,0 +1,58 @@
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.AssemblyReference.cache
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\LoginForm.LoginForm.resources
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.Properties.Resources.resources
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.GenerateResource.cache
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.CoreCompileInputs.cache
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe.config
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.pdb
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.exe
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.pdb
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.SuggestedBindingRedirects.cache
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\MainAgent.AgentForm.resources
+E:\колледж\уп хис\работы\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.ClientForm.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe.config
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.pdb
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.AssemblyReference.cache
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\MainAgent.AgentForm.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.ClientForm.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.Properties.Resources.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.RequestForm.resources
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.GenerateResource.cache
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.exe
+C:\Users\Johnny\Downloads\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.pdb
+E:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe.config
+E:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe
+E:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.pdb
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.AssemblyReference.cache
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\MainAgent.AgentForm.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.ClientForm.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\LoginForm.LoginForm.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.Properties.Resources.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.RequestForm.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.GenerateResource.cache
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.CoreCompileInputs.cache
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.exe
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.pdb
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\Profile.ProfileForm.resources
+E:\wpf\HouseEstate\EstateAgency\obj\Debug\MainAdmin.AdminForm.resources
+G:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe.config
+G:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.exe
+G:\wpf\HouseEstate\EstateAgency\bin\Debug\EstateAgency.pdb
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.AssemblyReference.cache
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.SuggestedBindingRedirects.cache
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\MainAdmin.AdminForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\MainAgent.AgentForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.ClientForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\LoginForm.LoginForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\Profile.ProfileForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.Properties.Resources.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\MainClient.RequestForm.resources
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.GenerateResource.cache
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.csproj.CoreCompileInputs.cache
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.exe
+G:\wpf\HouseEstate\EstateAgency\obj\Debug\EstateAgency.pdb
